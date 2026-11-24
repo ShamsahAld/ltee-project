@@ -7,7 +7,25 @@ authors:
   - given-names: "Shamsah"
     family-names: "Aldhanhani"
     email: "shamsah.aldhanhani@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0002-8929-1379"
 repository-code: "https://github.com/ShamsahAld/ltee-project"
 license: MIT
 version: 0.1.0
-date-released: "2026-10-26"
+date-released: "2026-11-23"
+keywords:
+  - reproducibility
+  - variant calling
+  - Long-Term Evolution Experiment
+references:
+  - type: article
+    title: "Tempo and mode of genome evolution in a 50,000-generation experiment"
+    authors:
+      - family-names: "Tenaillon"
+        given-names: "Olivier"
+      - name: "et al."
+    journal: "Nature"
+    volume: 536
+    start: 165
+    end: 170
+    year: 2016
+    doi: "10.1038/nature18959"
