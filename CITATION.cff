@@ -10,8 +10,9 @@ authors:
     orcid: "https://orcid.org/0009-0002-8929-1379"
 repository-code: "https://github.com/ShamsahAld/ltee-project"
 license: MIT
-version: 0.1.0
-date-released: "2026-11-23"
+version: 1.0.1
+date-released: "2026-11-25"
+doi: 10.5072/zenodo.648910
 keywords:
   - reproducibility
   - variant calling
