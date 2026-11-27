@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.648910.svg)](https://sandbox.zenodo.org/records/648910)
 # LTEE variant calling
 
 Variant calling on three *E. coli* clones from population Ara-3 of Richard
